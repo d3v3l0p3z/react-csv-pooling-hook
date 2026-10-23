@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javierlopezdeancos/rreact-csv-pooling-hook.git"
+    "url": "git+https://github.com/d3v3l0p3z/rreact-csv-pooling-hook.git"
   },
   "keywords": [
     "csv",
@@ -45,9 +45,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/javierlopezdeancos/react-csv-pooling-hook/issues"
+    "url": "https://github.com/d3v3l0p3z/react-csv-pooling-hook/issues"
   },
-  "homepage": "https://github.com/javierlopezdeancos/react-csv-pooling-hook#readme",
+  "homepage": "https://github.com/d3v3l0p3z/react-csv-pooling-hook#readme",
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

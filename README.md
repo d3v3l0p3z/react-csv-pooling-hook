@@ -5,12 +5,12 @@ Poolling a csv file data from react hook
 
 ## Activity
 
-[![License](https://img.shields.io/github/license/javierlopezdeancos/react-csv-pooling-hook?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/github/license/d3v3l0p3z/react-csv-pooling-hook?style=flat-square)](LICENSE)
 ![Coverage](./shields/coverage.svg)
-[![GitHub issues](https://img.shields.io/github/issues-raw/javierlopezdeancos/react-csv-pooling-hook?style=flat)](https://github.com/javierlopezdeancos/react-csv-pooling-hook/issues)
-[![GitHub all releases](https://img.shields.io/github/downloads/javierlopezdeancos/react-csv-pooling-hook/total)](https://github.com/javierlopezdeancos/react-csv-pooling-hook/releases)
+[![GitHub issues](https://img.shields.io/github/issues-raw/javierlopezdeancos/react-csv-pooling-hook?style=flat)](https://github.com/d3v3l0p3z/react-csv-pooling-hook/issues)
+[![GitHub all releases](https://img.shields.io/github/downloads/d3v3l0p3z/react-csv-pooling-hook/total)](https://github.com/d3v3l0p3z/react-csv-pooling-hook/releases)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/javierlopezdeancos/react-csv-pooling-hook/publish-npm.yml)
-![contributors](https://img.shields.io/github/contributors/javierlopezdeancos/react-csv-pooling-hook)
+![contributors](https://img.shields.io/github/contributors/d3v3l0p3z/react-csv-pooling-hook)
 ![npm version](https://img.shields.io/npm/v/react-csv-pooling-hook)
 ![bundle size](https://img.shields.io/bundlephobia/min/react-csv-pooling-hook)
 
